@@ -1,3 +1,135 @@
-body {
-  background: peachpuff;
-}
+@media screen and (max-width: 640px){
+  body {
+    background: blanchedalmond;
+  }
+  .container{
+    width: 100%;
+    height: 100%;
+  }
+  .a{
+    height: 5em;
+    background-color:darkgoldenrod;
+    margin: 1em;
+  }
+  .b{
+    height: 5em;
+    width:22%;
+    background-color:darkgoldenrod;
+    margin:1em;
+    display: inline-block;
+  }
+  .c{
+    height: 5em;
+    width:22%;
+    background-color:darkgoldenrod;
+    margin:1em;
+    display: inline-block;
+  }
+  .d{
+    height: 5em;
+    width:22%;
+    background-color:darkgoldenrod;
+    margin:1em;
+    display: inline-block;
+  }
+  .e{
+    height: 5em;
+    width:22%;
+    background-color:darkgoldenrod;
+    margin:1em;
+    display: inline-block;
+  }
+  .f{
+    height: 5em;
+    width:22%;
+    background-color:darkgoldenrod;
+    margin:1em;
+    display: inline-block;
+  }
+  .g{
+    height: 5em;
+    width:22%;
+    background-color:darkgoldenrod;
+    margin:1em;
+    display: inline-block;
+  }
+  .h{
+    height: 15em;
+    background-color:darkgoldenrod;
+    margin:1em;
+  }
+  }
+  
+  
+  
+  
+  
+  
+  
+  @media screen and (min-width: 640px) {
+    body {
+      background-color: darkblue;
+    }
+   
+    
+    .container{
+      width: 100%;
+      height: 100%;
+    }
+    .a{
+      height: 10em;
+      width: 90%;
+      background-color:aquamarine;
+      margin: 1em;
+    }
+    .b{
+      height: 20em;
+      width: 20em;
+      display: inline-block;
+      background-color:aquamarine;
+      margin:0.6em;
+    }
+    .c{
+      height: 20em;
+      width: 20em;
+      display: inline-block;
+      background-color:aquamarine;
+      margin:0.6em;
+    }
+    .d{
+      height: 20em;
+      width: 20em;
+      display: inline-block;
+      background-color:aquamarine;
+      margin:0.6em;
+    }
+    .h{
+      height: 20em;
+      width: 20em;
+      display: inline-block;
+      background-color:aquamarine;
+      margin:0.6em;
+    }
+    .f{
+      height: 20em;
+      width: 20em;
+      display: inline-block;
+      background-color:aquamarine;
+      margin:0.6em;
+    }
+    .g{
+      height: 20em;
+      width: 20em;
+      display: inline-block;
+      background-color:aquamarine;
+      margin:0.6em;
+    }
+    .e{ 
+      height: 42em;
+      width: 20em;
+      display: inline-block;
+      background-color:aquamarine;
+      margin-right: 23em;
+      margin-bottom:-20em;
+    }
+  }
